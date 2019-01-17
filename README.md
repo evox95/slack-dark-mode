@@ -1,7 +1,6 @@
 # Slack Dark Mode
-A user style for easy Slack theming. [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
-[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
+![](https://camo.githubusercontent.com/a01e148f7743dd4dd046ce8eb1328311cf2e2b9f/68747470733a2f2f757365727374796c65732e6f72672f7374796c655f73637265656e73686f74732f3131373437355f61667465722e706e67 "")
 
 ## Usage
 
